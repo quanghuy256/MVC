@@ -1,0 +1,15 @@
+F:\MVC\Project\Newapp\bin\Debug\net8.0\Newapp.exe
+F:\MVC\Project\Newapp\bin\Debug\net8.0\Newapp.deps.json
+F:\MVC\Project\Newapp\bin\Debug\net8.0\Newapp.runtimeconfig.json
+F:\MVC\Project\Newapp\bin\Debug\net8.0\Newapp.dll
+F:\MVC\Project\Newapp\bin\Debug\net8.0\Newapp.pdb
+F:\MVC\Project\Newapp\obj\Debug\net8.0\Newapp.GeneratedMSBuildEditorConfig.editorconfig
+F:\MVC\Project\Newapp\obj\Debug\net8.0\Newapp.AssemblyInfoInputs.cache
+F:\MVC\Project\Newapp\obj\Debug\net8.0\Newapp.AssemblyInfo.cs
+F:\MVC\Project\Newapp\obj\Debug\net8.0\Newapp.csproj.CoreCompileInputs.cache
+F:\MVC\Project\Newapp\obj\Debug\net8.0\Newapp.sourcelink.json
+F:\MVC\Project\Newapp\obj\Debug\net8.0\Newapp.dll
+F:\MVC\Project\Newapp\obj\Debug\net8.0\refint\Newapp.dll
+F:\MVC\Project\Newapp\obj\Debug\net8.0\Newapp.pdb
+F:\MVC\Project\Newapp\obj\Debug\net8.0\Newapp.genruntimeconfig.cache
+F:\MVC\Project\Newapp\obj\Debug\net8.0\ref\Newapp.dll
